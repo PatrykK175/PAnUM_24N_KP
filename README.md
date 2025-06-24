@@ -14,3 +14,4 @@ Aplikacja pozwala na włączenie stopera i minutnika.
 ![image](https://github.com/user-attachments/assets/10c0a3bb-cdc8-4ae6-a998-d370638e0b82)
 ![image](https://github.com/user-attachments/assets/1319de7d-2209-4506-978a-d06a2e577d80)
 ![image](https://github.com/user-attachments/assets/1d64ce61-9a56-4d75-afc1-6fe651150f23)
+![image](https://github.com/user-attachments/assets/e0adcbf7-5da4-4e26-8334-4163c2d376ef)
