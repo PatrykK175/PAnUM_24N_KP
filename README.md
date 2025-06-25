@@ -27,3 +27,12 @@ Mil -> KM;
 ![image](https://github.com/user-attachments/assets/89c5edab-2299-41d5-9f3c-6794ad373a5a)
 ![image](https://github.com/user-attachments/assets/79ad699b-e42a-4f68-a17a-06455c5565c3)
 ![image](https://github.com/user-attachments/assets/9da190ae-1495-4318-a290-9ac0335ebc35)
+
+## Laboratorium 4 - kafeteria
+Krótki symulator kafeterii umożliwiający podgląd produktów możliwych do zakupu. Wdrożona obsługa zdjęć.
+Dodany feature ze strzałką powrotną do poprzedzającej strony.
+![image](https://github.com/user-attachments/assets/a1a3b391-eb8a-457e-a23d-56223535c0e3)
+![image](https://github.com/user-attachments/assets/bd5fea94-a1a2-483e-b236-d5d3fe5c1fb9)
+![image](https://github.com/user-attachments/assets/3272395f-4526-40b5-aab7-20ca3b61ddc3)
+![image](https://github.com/user-attachments/assets/dccf9035-a2cc-4efa-936a-7a06f2625ac8)
+
