@@ -31,6 +31,7 @@ Mil -> KM;
 ## Laboratorium 4 - kafeteria
 Krótki symulator kafeterii umożliwiający podgląd produktów możliwych do zakupu. Wdrożona obsługa zdjęć.
 Dodany feature ze strzałką powrotną do poprzedzającej strony.
+
 ![image](https://github.com/user-attachments/assets/a1a3b391-eb8a-457e-a23d-56223535c0e3)
 ![image](https://github.com/user-attachments/assets/bd5fea94-a1a2-483e-b236-d5d3fe5c1fb9)
 ![image](https://github.com/user-attachments/assets/3272395f-4526-40b5-aab7-20ca3b61ddc3)
