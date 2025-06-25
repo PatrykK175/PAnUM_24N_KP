@@ -15,3 +15,15 @@ Aplikacja pozwala na włączenie stopera i minutnika.
 ![image](https://github.com/user-attachments/assets/1319de7d-2209-4506-978a-d06a2e577d80)
 ![image](https://github.com/user-attachments/assets/1d64ce61-9a56-4d75-afc1-6fe651150f23)
 ![image](https://github.com/user-attachments/assets/e0adcbf7-5da4-4e26-8334-4163c2d376ef)
+## Laboratorium 3 - konwerter
+Aplikacja umożliwia konwertowanie:
+Zł -> Euro
+CM -> Cal
+Celsjusz -> Fahrenheit
+KM -> Mil
+Mil -> KM
+
+![image](https://github.com/user-attachments/assets/25d0a634-07f6-40e9-84f7-eea5adc29d1e)
+![image](https://github.com/user-attachments/assets/89c5edab-2299-41d5-9f3c-6794ad373a5a)
+![image](https://github.com/user-attachments/assets/79ad699b-e42a-4f68-a17a-06455c5565c3)
+![image](https://github.com/user-attachments/assets/9da190ae-1495-4318-a290-9ac0335ebc35)
