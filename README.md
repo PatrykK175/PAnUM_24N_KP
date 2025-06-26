@@ -37,3 +37,12 @@ Dodany feature ze strzałką powrotną do poprzedzającej strony.
 ![image](https://github.com/user-attachments/assets/3272395f-4526-40b5-aab7-20ca3b61ddc3)
 ![image](https://github.com/user-attachments/assets/dccf9035-a2cc-4efa-936a-7a06f2625ac8)
 
+## Projekt zaliczeniowy
+Krótki symulator kawiarenki, który umożliwia podgląd produktów, dodawanie ich do koszyka (symulacja). Utworzony przycisk umożliwiający wysyłanie maila za pośrednictwem programu do wysyłania maili.
+![image](https://github.com/user-attachments/assets/3c05cbda-ace7-4d67-a968-af720b5212b4)
+![image](https://github.com/user-attachments/assets/c20c024b-098b-4556-84cb-af6bfaf1e5b0)
+![image](https://github.com/user-attachments/assets/564d7483-ca85-4924-a88e-f1e4d26f872c)
+![image](https://github.com/user-attachments/assets/9787ff44-5556-4946-8ed7-69f409ba62cc)
+
+
+
